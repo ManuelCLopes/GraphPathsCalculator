@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<Grafo>
+	<NumeroGrafo n='1'></NumeroGrafo>
+	<NumeroArcos n='31'></NumeroArcos>
+	<LFronteiras Numero_fronteiras='25'>
+		<Fronteira nfronteira='1' nvisitas='0' tipo='1'>
+			<Ladj Numero_adjacencias='0'>
+			</Ladj>
+		</Fronteira>
+		<Fronteira nfronteira='2' nvisitas='4' tipo='1'>
+			<Ladj Numero_adjacencias='2'>
+				<Adjacencia vertice='3' distancia='40'></Adjacencia>
+				<Adjacencia vertice='4' distancia='42'></Adjacencia>
+			</Ladj>
+		</Fronteira>
+		<Fronteira nfronteira='3' nvisitas='3' tipo='2'>
+			<Ladj Numero_adjacencias='3'>
+				<Adjacencia vertice='2' distancia='40'></Adjacencia>
+				<Adjacencia vertice='4' distancia='50'></Adjacencia>
+				<Adjacencia vertice='5' distancia='50'></Adjacencia>
+			</Ladj>
+		</Fronteira>
+		<Fronteira nfronteira='4' nvisitas='4' tipo='2'>
+			<Ladj Numero_adjacencias='3'>
+				<Adjacencia vertice='2' distancia='42'></Adjacencia>
+				<Adjacencia vertice='3' distancia='50'></Adjacencia>
+				<Adjacencia vertice='14' distancia='9'></Adjacencia>
+			</Ladj>
+		</Fronteira>
+		<Fronteira nfronteira='5' nvisitas='3' tipo='1'>
+			<Ladj Numero_adjacencias='3'>
+				<Adjacencia vertice='3' distancia='50'></Adjacencia>
+				<Adjacencia vertice='6' distancia='23'></Adjacencia>
+				<Adjacencia vertice='13' distancia='8'></Adjacencia>
+			</Ladj>
+		</Fronteira>
+		<Fronteira nfronteira='6' nvisitas='3' tipo='1'>
+			<Ladj Numero_adjacencias='3'>
+				<Adjacencia vertice='5' distancia='23'></Adjacencia>
+				<Adjacencia vertice='7' distancia='32'></Adjacencia>
+				<Adjacencia vertice='13' distancia='42'></Adjacencia>
+			</Ladj>
+		</Fronteira>
+		<Fronteira nfronteira='7' nvisitas='1' tipo='1'>
+			<Ladj Numero_adjacencias='4'>
+				<Adjacencia vertice='6' distancia='32'></Adjacencia>
+				<Adjacencia vertice='11' distancia='34'></Adjacencia>
+				<Adjacencia vertice='12' distancia='60'></Adjacencia>
+				<Adjacencia vertice='24' distancia='42'></Adjacencia>
+			</Ladj>
+		</Fronteira>
+		<Fronteira nfronteira='8' nvisitas='0' tipo='3'>
+			<Ladj Numero_adjacencias='2'>
+				<Adjacencia vertice='11' distancia='5'></Adjacencia>
+				<Adjacencia vertice='18' distancia='42'></Adjacencia>
+			</Ladj>
+		</Fronteira>
+		<Fronteira nfronteira='9' nvisitas='1' tipo='3'>
+			<Ladj Numero_adjacencias='3'>
+				<Adjacencia vertice='11' distancia='10'></Adjacencia>
+				<Adjacencia vertice='16' distancia='60'></Adjacencia>
+				<Adjacencia vertice='17' distancia='42'></Adjacencia>
+			</Ladj>
+		</Fronteira>
+		<Fronteira nfronteira='10' nvisitas='3' tipo='2'>
+			<Ladj Numero_adjacencias='3'>
+				<Adjacencia vertice='13' distancia='60'></Adjacencia>
+				<Adjacencia vertice='14' distancia='60'></Adjacencia>
+				<Adjacencia vertice='16' distancia='60'></Adjacencia>
+			</Ladj>
+		</Fronteira>
+		<Fronteira nfronteira='11' nvisitas='1' tipo='2'>
+			<Ladj Numero_adjacencias='4'>
+				<Adjacencia vertice='7' distancia='34'></Adjacencia>
+				<Adjacencia vertice='8' distancia='5'></Adjacencia>
+				<Adjacencia vertice='9' distancia='10'></Adjacencia>
+				<Adjacencia vertice='12' distancia='6'></Adjacencia>
+			</Ladj>
+		</Fronteira>
+		<Fronteira nfronteira='12' nvisitas='0' tipo='2'>
+			<Ladj Numero_adjacencias='3'>
+				<Adjacencia vertice='7' distancia='60'></Adjacencia>
+				<Adjacencia vertice='11' distancia='6'></Adjacencia>
+				<Adjacencia vertice='13' distancia='60'></Adjacencia>
+			</Ladj>
+		</Fronteira>
+		<Fronteira nfronteira='13' nvisitas='3' tipo='2'>
+			<Ladj Numero_adjacencias='4'>
+				<Adjacencia vertice='5' distancia='8'></Adjacencia>
+				<Adjacencia vertice='6' distancia='42'></Adjacencia>
+				<Adjacencia vertice='10' distancia='60'></Adjacencia>
+				<Adjacencia vertice='12' distancia='60'></Adjacencia>
+			</Ladj>
+		</Fronteira>
+		<Fronteira nfronteira='14' nvisitas='3' tipo='2'>
+			<Ladj Numero_adjacencias='2'>
+				<Adjacencia vertice='4' distancia='9'></Adjacencia>
+				<Adjacencia vertice='10' distancia='60'></Adjacencia>
+			</Ladj>
+		</Fronteira>
+		<Fronteira nfronteira='15' nvisitas='1' tipo='1'>
+			<Ladj Numero_adjacencias='1'>
+				<Adjacencia vertice='16' distancia='51'></Adjacencia>
+			</Ladj>
+		</Fronteira>
+		<Fronteira nfronteira='16' nvisitas='1' tipo='1'>
+			<Ladj Numero_adjacencias='4'>
+				<Adjacencia vertice='9' distancia='60'></Adjacencia>
+				<Adjacencia vertice='10' distancia='60'></Adjacencia>
+				<Adjacencia vertice='15' distancia='51'></Adjacencia>
+				<Adjacencia vertice='17' distancia='9'></Adjacencia>
+			</Ladj>
+		</Fronteira>
+		<Fronteira nfronteira='17' nvisitas='0' tipo='1'>
+			<Ladj Numero_adjacencias='2'>
+				<Adjacencia vertice='9' distancia='42'></Adjacencia>
+				<Adjacencia vertice='16' distancia='9'></Adjacencia>
+			</Ladj>
+		</Fronteira>
+		<Fronteira nfronteira='18' nvisitas='0' tipo='3'>
+			<Ladj Numero_adjacencias='2'>
+				<Adjacencia vertice='8' distancia='42'></Adjacencia>
+				<Adjacencia vertice='19' distancia='42'></Adjacencia>
+			</Ladj>
+		</Fronteira>
+		<Fronteira nfronteira='19' nvisitas='0' tipo='3'>
+			<Ladj Numero_adjacencias='3'>
+				<Adjacencia vertice='18' distancia='42'></Adjacencia>
+				<Adjacencia vertice='20' distancia='42'></Adjacencia>
+				<Adjacencia vertice='23' distancia='42'></Adjacencia>
+			</Ladj>
+		</Fronteira>
+		<Fronteira nfronteira='20' nvisitas='0' tipo='2'>
+			<Ladj Numero_adjacencias='2'>
+				<Adjacencia vertice='19' distancia='42'></Adjacencia>
+				<Adjacencia vertice='21' distancia='42'></Adjacencia>
+			</Ladj>
+		</Fronteira>
+		<Fronteira nfronteira='21' nvisitas='0' tipo='2'>
+			<Ladj Numero_adjacencias='2'>
+				<Adjacencia vertice='20' distancia='42'></Adjacencia>
+				<Adjacencia vertice='22' distancia='42'></Adjacencia>
+			</Ladj>
+		</Fronteira>
+		<Fronteira nfronteira='22' nvisitas='0' tipo='3'>
+			<Ladj Numero_adjacencias='2'>
+				<Adjacencia vertice='21' distancia='42'></Adjacencia>
+				<Adjacencia vertice='23' distancia='42'></Adjacencia>
+			</Ladj>
+		</Fronteira>
+		<Fronteira nfronteira='23' nvisitas='0' tipo='3'>
+			<Ladj Numero_adjacencias='2'>
+				<Adjacencia vertice='19' distancia='42'></Adjacencia>
+				<Adjacencia vertice='22' distancia='42'></Adjacencia>
+			</Ladj>
+		</Fronteira>
+		<Fronteira nfronteira='24' nvisitas='0' tipo='1'>
+			<Ladj Numero_adjacencias='1'>
+				<Adjacencia vertice='7' distancia='42'></Adjacencia>
+			</Ladj>
+		</Fronteira>
+		<Fronteira nfronteira='25' nvisitas='0' tipo='1'>
+			<Ladj Numero_adjacencias='0'>
+			</Ladj>
+		</Fronteira>
+	</LFronteiras>
+	<LPessoas Numero_pessoas='3'>
+		<Pessoa id='1' nome='Jose Pedro Lopes' origem='2' destino='6'></Pessoa>
+		<Pessoa id='2' nome='Miguel Almeida' origem='4' destino='2'></Pessoa>
+		<Pessoa id='3' nome='Luis Santos' origem='5' destino='15'></Pessoa>
+	 </LPessoas>
+</Grafo>
