@@ -1,0 +1,3 @@
+# GraphPathsCalculator
+This C++ application was implemented in order to explore the capabilities of graphs. 
+In this application in specific the goal was calculate different paths between cities with some extra funcionalities, like get de less visited city, get the smaller path between 2 cities...
